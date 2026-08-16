@@ -6,7 +6,6 @@ from sklearn.metrics import accuracy_score
 
 
 
-
 # Load the Iris dataset
 iris = datasets.load_iris()
 X = iris.data  # Features
